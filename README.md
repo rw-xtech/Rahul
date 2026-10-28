@@ -1,30 +1,27 @@
-# Rahul
-<!-- Profile Views -->
+<!-- Profile Views (Left Aligned) -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00C9A7" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rw-xtech&color=brightgreen" alt="Profile views" />
 </p>
 
-<!-- Animated Typing Header -->
+<!-- Animated Typing Header (Centered) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Rahul+Waiba;💻+BCA+Student+@+Thames;📊+Aspiring+Data+Analyst;🌱+Learning+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I%27m+Rahul+Waiba;💻+BCA+Student+@+Thames;📊+Aspiring+Data+Analyst;🌱+Learning+Every+Day" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0066FF&height=120&section=header&text=Welcome%20to%20my%20GitHub&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0066FF&height=120&section=header&text=Welcome%20to%20my%20GitHub&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="Cool Banner" width="800"/>
 </p>
 
-### 👨‍💻 About Me
+---
 
-- 👋 Hi, I'm **Rahul Waiba**, currently studying **BCA at Thames International College**.
-- 🎓 Completed my **+2 in Computer Science** with a **GPA of 3.60**.
-- 📚 Completed my **SEE** with a **GPA of 3.70**.
-- 💻 Currently learning **C, Python, and programming fundamentals**.
-- 📊 Passionate about **Data Analytics, Data Science, and Business Analytics**.
-- 🗄️ Exploring **databases, SQL, and data-related tools** as I progress.
-- 📈 Goal: Become a **Data Analyst** and gradually evolve into **Data Science**.
-- 🚀 I enjoy learning by building small projects and solving practical problems.
-- 🏀 Outside coding, I enjoy playing **basketball**.
-- 🌱 Always learning, improving, and documenting my progress.
+### ⚡ About Me  
+- 👋 Hi, I'm **Rahul Waiba**, currently studying **BCA at Thames International College**  
+- 🌱 Learning: **C, Python, SQL, Databases, Programming Fundamentals**  
+- 👯 Looking to collaborate on: **Beginner-Friendly Data Analytics And Python Projects**  
+- 🤝 Seeking guidance in: **Data Analytics, Data Science, Business Analytics**  
+- 💬 Ask me about: **C | Python | SQL | Databases**  
+- 📫 How to reach me: **Message me on LinkedIn**  
+- 🎯 Hobbies & Interests: *Basketball 🏀 | Data Analytics 📊*  
 
 ---
 
@@ -38,14 +35,10 @@
 
 ### 🎯 Current Learning
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,mysql,git,github,vscode" alt="Current skills" />
-</p>
-
-**Programming:** C • Python  
-**Data:** SQL • Databases • Data Analysis  
-**Tools:** Git • GitHub • VS Code  
-**Next:** Pandas • NumPy • Excel • Power BI  
+- **Programming:** C • Python
+- **Data:** SQL • Databases • Data Analysis
+- **Tools:** Git • GitHub • VS Code
+- **Next:** Pandas • NumPy • Excel • Power BI
 
 ---
 
@@ -65,4 +58,42 @@ Data Analysis & Visualization
    Data Analytics
         ↓
    Data Science
+```
+
+---
+
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahul-waiba-rw3024230811/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Arsenal  
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+</p>
+
+---
+
+### 📊 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rw-xtech&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rw-xtech&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+<h3 align="center">🔥 “Turning Learning 🌱, Basketball 🏀 & Data Analytics 📊 into reality 🚀” 🔥</h3>
+
 
